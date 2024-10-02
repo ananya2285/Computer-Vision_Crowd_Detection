@@ -1,6 +1,6 @@
 # Crowd_Detection using Computer-Vision
 
-![img]()
+![img](https://github.com/ananya2285/Computer-Vision_Crowd_Detection/blob/58098821e083b29cb06026bf5adc7e39f1dd95da/crowd%203.png)
 
 ## INTRODUCTION
 
