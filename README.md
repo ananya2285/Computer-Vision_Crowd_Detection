@@ -35,7 +35,10 @@ Our goal is to develop state-of-the-art deep learning models and deploy scalable
 
 ## RESULTS
 
-1) 
+**1)** 
+
 ![img_1](https://github.com/ananya2285/Computer-Vision_Crowd_Detection/blob/5e8b7df9b94937b07dcd17ca57359cc48fd06e1d/Results/crowd%202.png)
 
-![imag_2]()
+**2)**
+
+![imag_2](https://github.com/ananya2285/Computer-Vision_Crowd_Detection/blob/eaf76ef0b67262e66f0e27e7d92131574318034f/Results/crowd_1.png)
