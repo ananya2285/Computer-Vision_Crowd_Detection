@@ -44,3 +44,8 @@ Our goal is to develop state-of-the-art deep learning models and deploy scalable
 **2)**
 
 ![imag_2](https://github.com/ananya2285/Computer-Vision_Crowd_Detection/blob/eaf76ef0b67262e66f0e27e7d92131574318034f/Results/crowd_1.png)
+
+## FUTURE SCOPE
+
+The future scope of the crowd detection project includes implementing real-time monitoring systems for crowd management and security applications.Enhancements can involve integrating advanced machine learning techniqueslike deep learning for improved accuracy. Exploring multi-modal data sources such as sensors and social media can provide richer insights into crowd behavior. Additionally, interactive visualization tools and analytics platforms can be developed to enable stakeholders to interpret and act upon insightseffectively.
+
